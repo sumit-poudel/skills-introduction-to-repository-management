@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sumit-poudel
+/src/backend/database.py      @sumit-poudel
+/src/backend/routers/auth.py  @sumit-poudel
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sumit-poudel
